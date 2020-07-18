@@ -11,5 +11,4 @@ You can majorily modify the code, but you must give credits.
 *If you want to have the same bot on a different server, feel free to but, you must a) give credits and b)Not use the same name/picture**
 **Some lines of code will be mainly for velectro services so you might need to change that
 
-Velectro is coming soon
-Defintely not next year
+
